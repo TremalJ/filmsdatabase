@@ -1,5 +1,8 @@
 **Página inicial**
+
+
 En caso de querer crear la BD y actualizar esquema:
+
 
 `php bin/console doctrine:database:create
 php bin/console doctrine:migrations:migrate
