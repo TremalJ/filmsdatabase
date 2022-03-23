@@ -22,7 +22,9 @@ https://localhost:8000/en/easyadmin?crudAction=index&crudControllerFqcn=App%5CCo
 
 Elegida PostgreSQL para realizar el test.
 
-Películas
+**Esquema e entidades**
+
+**Películas**
 
 ■ Titulo (string)
 
@@ -35,7 +37,7 @@ Películas
 ■ Productora (string)
 
 
-Actor(es)
+**Actor(es)**
 
 ■ Nombre (string)
  
@@ -45,7 +47,7 @@ Actor(es)
 
 ■ Lugar de nacimiento (date)
 
-Director(es) 
+**Director(es)**
 
 ■ Nombre (string)
 
